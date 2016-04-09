@@ -1,6 +1,7 @@
 # gradle-publish
 
 1.build.gradle 中 添加代码
+
 buildscript {
     repositories {
         jcenter()
