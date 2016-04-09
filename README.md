@@ -27,14 +27,21 @@ bintray_user=
 bintray_api_key=
 
 bintray_group=
+
 bintray_version=
 
 bintray_name=
+
 bintray_repo=
+
 bintray_siteUrl=
+
 bintray_gitUrl=
+
 bintray_issuesUrl=
+
 bintray_desc=
+
 bintray_labels =   //['aar', 'android', 'test']
 
 4.rebuild 后执行 gradle bintrayUpload 命令
